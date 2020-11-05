@@ -1,0 +1,3588 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="PuroLocationz" id="PuroLocationz">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="snippet" type="string"></SimpleField>
+</Schema>
+<Folder><name>PuroLocationz</name>
+  <Placemark>
+	<name>SCARBOROUGH GO STATION</name>
+	<description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+
+&lt;/head&gt;
+
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+
+&lt;td&gt;SCARBOROUGH GO STATION&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;HFPU_LOCATION_NAME&lt;/td&gt;
+
+&lt;td&gt;SCARBOROUGH GO STATION&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;UNIT_NUMBER&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NUMBER&lt;/td&gt;
+
+&lt;td&gt;3615&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_NUMBER_SUFFIX&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NAME&lt;/td&gt;
+
+&lt;td&gt;ST. CLAIR&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_TYPE&lt;/td&gt;
+
+&lt;td&gt;AVE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_DIRECTION&lt;/td&gt;
+
+&lt;td&gt;E&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;MUNICIPALITY_NAME&lt;/td&gt;
+
+&lt;td&gt;SCARBOROUGH&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;PROVINCE_CODE&lt;/td&gt;
+
+&lt;td&gt;Ontario&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;POSTAL_CODE&lt;/td&gt;
+
+&lt;td&gt;M1N1T1&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LAST_MODIFIED_DATE&lt;/td&gt;
+
+&lt;td&gt;12:00:00 AM&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;HFPU_LOCATION_ID&lt;/td&gt;
+
+&lt;td&gt;1&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LATITUDE&lt;/td&gt;
+
+&lt;td&gt;43.718584&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;LONGITUDE&lt;/td&gt;
+
+&lt;td&gt;-79.251683&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;SHAPE&lt;/td&gt;
+
+&lt;td&gt;Point&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</description>
+	<ExtendedData><SchemaData schemaUrl="#PuroLocationz">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.2516827999458,43.7185840998107,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GLOBAL PARCEL EXPRESS (ESO)</name>
+	<description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+
+&lt;/head&gt;
+
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+
+&lt;td&gt;GLOBAL PARCEL EXPRESS (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;HFPU_LOCATION_NAME&lt;/td&gt;
+
+&lt;td&gt;GLOBAL PARCEL EXPRESS (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;UNIT_NUMBER&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NUMBER&lt;/td&gt;
+
+&lt;td&gt;1161&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_NUMBER_SUFFIX&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NAME&lt;/td&gt;
+
+&lt;td&gt;ST. CLAIR&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_TYPE&lt;/td&gt;
+
+&lt;td&gt;AVE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_DIRECTION&lt;/td&gt;
+
+&lt;td&gt;W&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;MUNICIPALITY_NAME&lt;/td&gt;
+
+&lt;td&gt;TORONTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;PROVINCE_CODE&lt;/td&gt;
+
+&lt;td&gt;Ontario&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;POSTAL_CODE&lt;/td&gt;
+
+&lt;td&gt;M6E1B2&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LAST_MODIFIED_DATE&lt;/td&gt;
+
+&lt;td&gt;12:00:00 AM&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;HFPU_LOCATION_ID&lt;/td&gt;
+
+&lt;td&gt;2&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LATITUDE&lt;/td&gt;
+
+&lt;td&gt;43.67799&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;LONGITUDE&lt;/td&gt;
+
+&lt;td&gt;-79.442562&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;SHAPE&lt;/td&gt;
+
+&lt;td&gt;Point&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</description>
+	<ExtendedData><SchemaData schemaUrl="#PuroLocationz">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4425624998849,43.6779902000074,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PRESSE INTERNATIONALE (ESO)</name>
+	<description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+
+&lt;/head&gt;
+
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+
+&lt;td&gt;PRESSE INTERNATIONALE (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;HFPU_LOCATION_NAME&lt;/td&gt;
+
+&lt;td&gt;PRESSE INTERNATIONALE (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;UNIT_NUMBER&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NUMBER&lt;/td&gt;
+
+&lt;td&gt;2068&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_NUMBER_SUFFIX&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NAME&lt;/td&gt;
+
+&lt;td&gt;QUEEN&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_TYPE&lt;/td&gt;
+
+&lt;td&gt;ST&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_DIRECTION&lt;/td&gt;
+
+&lt;td&gt;E&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;MUNICIPALITY_NAME&lt;/td&gt;
+
+&lt;td&gt;TORONTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;PROVINCE_CODE&lt;/td&gt;
+
+&lt;td&gt;Ontario&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;POSTAL_CODE&lt;/td&gt;
+
+&lt;td&gt;M4E1C9&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LAST_MODIFIED_DATE&lt;/td&gt;
+
+&lt;td&gt;12:00:00 AM&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;HFPU_LOCATION_ID&lt;/td&gt;
+
+&lt;td&gt;3&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LATITUDE&lt;/td&gt;
+
+&lt;td&gt;43.670752&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;LONGITUDE&lt;/td&gt;
+
+&lt;td&gt;-79.297151&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;SHAPE&lt;/td&gt;
+
+&lt;td&gt;Point&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</description>
+	<ExtendedData><SchemaData schemaUrl="#PuroLocationz">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.2971511996297,43.6707517999411,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VALUE MOBILE (ESO)</name>
+	<description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+
+&lt;/head&gt;
+
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+
+&lt;td&gt;VALUE MOBILE (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;HFPU_LOCATION_NAME&lt;/td&gt;
+
+&lt;td&gt;VALUE MOBILE (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;UNIT_NUMBER&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NUMBER&lt;/td&gt;
+
+&lt;td&gt;1855&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_NUMBER_SUFFIX&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NAME&lt;/td&gt;
+
+&lt;td&gt;EGLINTON&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_TYPE&lt;/td&gt;
+
+&lt;td&gt;AVE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_DIRECTION&lt;/td&gt;
+
+&lt;td&gt;W&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;MUNICIPALITY_NAME&lt;/td&gt;
+
+&lt;td&gt;YORK&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;PROVINCE_CODE&lt;/td&gt;
+
+&lt;td&gt;Ontario&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;POSTAL_CODE&lt;/td&gt;
+
+&lt;td&gt;M6E2J3&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LAST_MODIFIED_DATE&lt;/td&gt;
+
+&lt;td&gt;12:00:00 AM&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;HFPU_LOCATION_ID&lt;/td&gt;
+
+&lt;td&gt;4&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LATITUDE&lt;/td&gt;
+
+&lt;td&gt;43.695552&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;LONGITUDE&lt;/td&gt;
+
+&lt;td&gt;-79.45086&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;SHAPE&lt;/td&gt;
+
+&lt;td&gt;Point&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</description>
+	<ExtendedData><SchemaData schemaUrl="#PuroLocationz">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4508597997865,43.6955523999437,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PHOTO FAST LTD. (ESO)</name>
+	<description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+
+&lt;/head&gt;
+
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+
+&lt;td&gt;PHOTO FAST LTD. (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;HFPU_LOCATION_NAME&lt;/td&gt;
+
+&lt;td&gt;PHOTO FAST LTD. (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;UNIT_NUMBER&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NUMBER&lt;/td&gt;
+
+&lt;td&gt;2078&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_NUMBER_SUFFIX&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NAME&lt;/td&gt;
+
+&lt;td&gt;LAWRENCE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_TYPE&lt;/td&gt;
+
+&lt;td&gt;AVE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_DIRECTION&lt;/td&gt;
+
+&lt;td&gt;E&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;MUNICIPALITY_NAME&lt;/td&gt;
+
+&lt;td&gt;SCARBOROUGH&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;PROVINCE_CODE&lt;/td&gt;
+
+&lt;td&gt;Ontario&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;POSTAL_CODE&lt;/td&gt;
+
+&lt;td&gt;M1R2Z5&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LAST_MODIFIED_DATE&lt;/td&gt;
+
+&lt;td&gt;12:00:00 AM&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;HFPU_LOCATION_ID&lt;/td&gt;
+
+&lt;td&gt;5&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LATITUDE&lt;/td&gt;
+
+&lt;td&gt;43.745837&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;LONGITUDE&lt;/td&gt;
+
+&lt;td&gt;-79.293445&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;SHAPE&lt;/td&gt;
+
+&lt;td&gt;Point&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</description>
+	<ExtendedData><SchemaData schemaUrl="#PuroLocationz">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.2934449996008,43.7458372997406,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>UNIVERSITY HEALTH CENTRE PHARMACY (ESO)</name>
+	<description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+
+&lt;/head&gt;
+
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+
+&lt;td&gt;UNIVERSITY HEALTH CENTRE PHARMACY (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;HFPU_LOCATION_NAME&lt;/td&gt;
+
+&lt;td&gt;UNIVERSITY HEALTH CENTRE PHARMACY (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;UNIT_NUMBER&lt;/td&gt;
+
+&lt;td&gt;59&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NUMBER&lt;/td&gt;
+
+&lt;td&gt;4801&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_NUMBER_SUFFIX&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NAME&lt;/td&gt;
+
+&lt;td&gt;KEELE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_TYPE&lt;/td&gt;
+
+&lt;td&gt;ST&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_DIRECTION&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;MUNICIPALITY_NAME&lt;/td&gt;
+
+&lt;td&gt;NORTH YORK&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;PROVINCE_CODE&lt;/td&gt;
+
+&lt;td&gt;Ontario&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;POSTAL_CODE&lt;/td&gt;
+
+&lt;td&gt;M3J3A4&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LAST_MODIFIED_DATE&lt;/td&gt;
+
+&lt;td&gt;12:00:00 AM&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;HFPU_LOCATION_ID&lt;/td&gt;
+
+&lt;td&gt;6&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LATITUDE&lt;/td&gt;
+
+&lt;td&gt;43.777375&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;LONGITUDE&lt;/td&gt;
+
+&lt;td&gt;-79.494266&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;SHAPE&lt;/td&gt;
+
+&lt;td&gt;Point&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</description>
+	<ExtendedData><SchemaData schemaUrl="#PuroLocationz">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4942657996304,43.7773753002872,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NETPRINT &amp; SHIP INC (ESO)</name>
+	<description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+
+&lt;/head&gt;
+
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+
+&lt;td&gt;NETPRINT &amp;amp; SHIP INC (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;HFPU_LOCATION_NAME&lt;/td&gt;
+
+&lt;td&gt;NETPRINT &amp;amp; SHIP INC (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;UNIT_NUMBER&lt;/td&gt;
+
+&lt;td&gt;B2&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NUMBER&lt;/td&gt;
+
+&lt;td&gt;125&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_NUMBER_SUFFIX&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NAME&lt;/td&gt;
+
+&lt;td&gt;THE QUEENSWAY&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_TYPE&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_DIRECTION&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;MUNICIPALITY_NAME&lt;/td&gt;
+
+&lt;td&gt;ETOBICOKE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;PROVINCE_CODE&lt;/td&gt;
+
+&lt;td&gt;Ontario&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;POSTAL_CODE&lt;/td&gt;
+
+&lt;td&gt;M8Y1H6&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LAST_MODIFIED_DATE&lt;/td&gt;
+
+&lt;td&gt;12:00:00 AM&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;HFPU_LOCATION_ID&lt;/td&gt;
+
+&lt;td&gt;7&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LATITUDE&lt;/td&gt;
+
+&lt;td&gt;43.630577&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;LONGITUDE&lt;/td&gt;
+
+&lt;td&gt;-79.482273&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;SHAPE&lt;/td&gt;
+
+&lt;td&gt;Point&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</description>
+	<ExtendedData><SchemaData schemaUrl="#PuroLocationz">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4822731001446,43.630576799843,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ISLINES INCORPORATED (ESO)</name>
+	<description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+
+&lt;/head&gt;
+
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+
+&lt;td&gt;ISLINES INCORPORATED (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;HFPU_LOCATION_NAME&lt;/td&gt;
+
+&lt;td&gt;ISLINES INCORPORATED (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;UNIT_NUMBER&lt;/td&gt;
+
+&lt;td&gt;32&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NUMBER&lt;/td&gt;
+
+&lt;td&gt;2&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_NUMBER_SUFFIX&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NAME&lt;/td&gt;
+
+&lt;td&gt;THORNCLIFFE PARK&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_TYPE&lt;/td&gt;
+
+&lt;td&gt;DR&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_DIRECTION&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;MUNICIPALITY_NAME&lt;/td&gt;
+
+&lt;td&gt;EAST YORK&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;PROVINCE_CODE&lt;/td&gt;
+
+&lt;td&gt;Ontario&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;POSTAL_CODE&lt;/td&gt;
+
+&lt;td&gt;M4H1H2&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LAST_MODIFIED_DATE&lt;/td&gt;
+
+&lt;td&gt;12:00:00 AM&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;HFPU_LOCATION_ID&lt;/td&gt;
+
+&lt;td&gt;8&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LATITUDE&lt;/td&gt;
+
+&lt;td&gt;43.70602&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;LONGITUDE&lt;/td&gt;
+
+&lt;td&gt;-79.351172&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;SHAPE&lt;/td&gt;
+
+&lt;td&gt;Point&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</description>
+	<ExtendedData><SchemaData schemaUrl="#PuroLocationz">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3511716003443,43.7060201999978,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRST CLASS BUSINESS CENTRES (ESO)</name>
+	<description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+
+&lt;/head&gt;
+
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+
+&lt;td&gt;FIRST CLASS BUSINESS CENTRES (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;HFPU_LOCATION_NAME&lt;/td&gt;
+
+&lt;td&gt;FIRST CLASS BUSINESS CENTRES (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;UNIT_NUMBER&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NUMBER&lt;/td&gt;
+
+&lt;td&gt;3230&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_NUMBER_SUFFIX&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NAME&lt;/td&gt;
+
+&lt;td&gt;YONGE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_TYPE&lt;/td&gt;
+
+&lt;td&gt;ST&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_DIRECTION&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;MUNICIPALITY_NAME&lt;/td&gt;
+
+&lt;td&gt;TORONTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;PROVINCE_CODE&lt;/td&gt;
+
+&lt;td&gt;Ontario&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;POSTAL_CODE&lt;/td&gt;
+
+&lt;td&gt;M4N3P6&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LAST_MODIFIED_DATE&lt;/td&gt;
+
+&lt;td&gt;12:00:00 AM&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;HFPU_LOCATION_ID&lt;/td&gt;
+
+&lt;td&gt;9&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LATITUDE&lt;/td&gt;
+
+&lt;td&gt;43.729419&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;LONGITUDE&lt;/td&gt;
+
+&lt;td&gt;-79.403393&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;SHAPE&lt;/td&gt;
+
+&lt;td&gt;Point&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</description>
+	<ExtendedData><SchemaData schemaUrl="#PuroLocationz">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4033926997994,43.7294192999765,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TECH WORLD DANFORTH INC (ESO)</name>
+	<description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+
+&lt;/head&gt;
+
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+
+&lt;td&gt;TECH WORLD DANFORTH INC (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;HFPU_LOCATION_NAME&lt;/td&gt;
+
+&lt;td&gt;TECH WORLD DANFORTH INC (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;UNIT_NUMBER&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NUMBER&lt;/td&gt;
+
+&lt;td&gt;2680&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_NUMBER_SUFFIX&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NAME&lt;/td&gt;
+
+&lt;td&gt;DANFORTH&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_TYPE&lt;/td&gt;
+
+&lt;td&gt;AVE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_DIRECTION&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;MUNICIPALITY_NAME&lt;/td&gt;
+
+&lt;td&gt;TORONTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;PROVINCE_CODE&lt;/td&gt;
+
+&lt;td&gt;Ontario&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;POSTAL_CODE&lt;/td&gt;
+
+&lt;td&gt;M4C1L7&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LAST_MODIFIED_DATE&lt;/td&gt;
+
+&lt;td&gt;12:00:00 AM&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;HFPU_LOCATION_ID&lt;/td&gt;
+
+&lt;td&gt;10&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LATITUDE&lt;/td&gt;
+
+&lt;td&gt;43.688866&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;LONGITUDE&lt;/td&gt;
+
+&lt;td&gt;-79.298986&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;SHAPE&lt;/td&gt;
+
+&lt;td&gt;Point&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</description>
+	<ExtendedData><SchemaData schemaUrl="#PuroLocationz">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.2989859996144,43.6888657002609,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ENVOY BUSINESS SERVICES (ESO)</name>
+	<description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+
+&lt;/head&gt;
+
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+
+&lt;td&gt;ENVOY BUSINESS SERVICES (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;HFPU_LOCATION_NAME&lt;/td&gt;
+
+&lt;td&gt;ENVOY BUSINESS SERVICES (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;UNIT_NUMBER&lt;/td&gt;
+
+&lt;td&gt;7&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NUMBER&lt;/td&gt;
+
+&lt;td&gt;91&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_NUMBER_SUFFIX&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NAME&lt;/td&gt;
+
+&lt;td&gt;RYLANDER&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_TYPE&lt;/td&gt;
+
+&lt;td&gt;BLVD&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_DIRECTION&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;MUNICIPALITY_NAME&lt;/td&gt;
+
+&lt;td&gt;SCARBOROUGH&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;PROVINCE_CODE&lt;/td&gt;
+
+&lt;td&gt;Ontario&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;POSTAL_CODE&lt;/td&gt;
+
+&lt;td&gt;M1B5M5&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LAST_MODIFIED_DATE&lt;/td&gt;
+
+&lt;td&gt;12:00:00 AM&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;HFPU_LOCATION_ID&lt;/td&gt;
+
+&lt;td&gt;11&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LATITUDE&lt;/td&gt;
+
+&lt;td&gt;43.798109&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;LONGITUDE&lt;/td&gt;
+
+&lt;td&gt;-79.150874&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;SHAPE&lt;/td&gt;
+
+&lt;td&gt;Point&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</description>
+	<ExtendedData><SchemaData schemaUrl="#PuroLocationz">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.1508742998347,43.7981087001264,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW DOINGWELL CONVENIENCE STORE (ESO)</name>
+	<description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+
+&lt;/head&gt;
+
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+
+&lt;td&gt;NEW DOINGWELL CONVENIENCE STORE (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;HFPU_LOCATION_NAME&lt;/td&gt;
+
+&lt;td&gt;NEW DOINGWELL CONVENIENCE STORE (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;UNIT_NUMBER&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NUMBER&lt;/td&gt;
+
+&lt;td&gt;4789&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_NUMBER_SUFFIX&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NAME&lt;/td&gt;
+
+&lt;td&gt;LESLIE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_TYPE&lt;/td&gt;
+
+&lt;td&gt;ST&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_DIRECTION&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;MUNICIPALITY_NAME&lt;/td&gt;
+
+&lt;td&gt;NORTH YORK&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;PROVINCE_CODE&lt;/td&gt;
+
+&lt;td&gt;Ontario&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;POSTAL_CODE&lt;/td&gt;
+
+&lt;td&gt;M2J2K8&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LAST_MODIFIED_DATE&lt;/td&gt;
+
+&lt;td&gt;12:00:00 AM&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;HFPU_LOCATION_ID&lt;/td&gt;
+
+&lt;td&gt;12&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LATITUDE&lt;/td&gt;
+
+&lt;td&gt;43.77888&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;LONGITUDE&lt;/td&gt;
+
+&lt;td&gt;-79.363827&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;SHAPE&lt;/td&gt;
+
+&lt;td&gt;Point&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</description>
+	<ExtendedData><SchemaData schemaUrl="#PuroLocationz">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3638269995917,43.7788803998424,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JUST PRINT CANADA (ESO)</name>
+	<description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+
+&lt;/head&gt;
+
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+
+&lt;td&gt;JUST PRINT CANADA (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;HFPU_LOCATION_NAME&lt;/td&gt;
+
+&lt;td&gt;JUST PRINT CANADA (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;UNIT_NUMBER&lt;/td&gt;
+
+&lt;td&gt;1&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NUMBER&lt;/td&gt;
+
+&lt;td&gt;386&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_NUMBER_SUFFIX&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NAME&lt;/td&gt;
+
+&lt;td&gt;SHEPPARD&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_TYPE&lt;/td&gt;
+
+&lt;td&gt;AVE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_DIRECTION&lt;/td&gt;
+
+&lt;td&gt;E&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;MUNICIPALITY_NAME&lt;/td&gt;
+
+&lt;td&gt;NORTH YORK&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;PROVINCE_CODE&lt;/td&gt;
+
+&lt;td&gt;Ontario&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;POSTAL_CODE&lt;/td&gt;
+
+&lt;td&gt;M2N3B7&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LAST_MODIFIED_DATE&lt;/td&gt;
+
+&lt;td&gt;12:00:00 AM&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;HFPU_LOCATION_ID&lt;/td&gt;
+
+&lt;td&gt;13&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LATITUDE&lt;/td&gt;
+
+&lt;td&gt;43.766036&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;LONGITUDE&lt;/td&gt;
+
+&lt;td&gt;-79.391887&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;SHAPE&lt;/td&gt;
+
+&lt;td&gt;Point&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</description>
+	<ExtendedData><SchemaData schemaUrl="#PuroLocationz">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3918871998112,43.7660357998907,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PENGUINPICKUP (ESO)</name>
+	<description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+
+&lt;/head&gt;
+
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+
+&lt;td&gt;PENGUINPICKUP (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;HFPU_LOCATION_NAME&lt;/td&gt;
+
+&lt;td&gt;PENGUINPICKUP (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;UNIT_NUMBER&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NUMBER&lt;/td&gt;
+
+&lt;td&gt;120&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_NUMBER_SUFFIX&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NAME&lt;/td&gt;
+
+&lt;td&gt;EGLINTON&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_TYPE&lt;/td&gt;
+
+&lt;td&gt;AVE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_DIRECTION&lt;/td&gt;
+
+&lt;td&gt;E&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;MUNICIPALITY_NAME&lt;/td&gt;
+
+&lt;td&gt;TORONTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;PROVINCE_CODE&lt;/td&gt;
+
+&lt;td&gt;Ontario&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;POSTAL_CODE&lt;/td&gt;
+
+&lt;td&gt;M4P1A6&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LAST_MODIFIED_DATE&lt;/td&gt;
+
+&lt;td&gt;12:00:00 AM&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;HFPU_LOCATION_ID&lt;/td&gt;
+
+&lt;td&gt;14&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LATITUDE&lt;/td&gt;
+
+&lt;td&gt;43.707699&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;LONGITUDE&lt;/td&gt;
+
+&lt;td&gt;-79.394878&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;SHAPE&lt;/td&gt;
+
+&lt;td&gt;Point&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</description>
+	<ExtendedData><SchemaData schemaUrl="#PuroLocationz">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3948780004125,43.7076991002627,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PENGUINPICKUP (ESO)</name>
+	<description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+
+&lt;/head&gt;
+
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+
+&lt;td&gt;PENGUINPICKUP (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;HFPU_LOCATION_NAME&lt;/td&gt;
+
+&lt;td&gt;PENGUINPICKUP (ESO)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;UNIT_NUMBER&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NUMBER&lt;/td&gt;
+
+&lt;td&gt;609&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_NUMBER_SUFFIX&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NAME&lt;/td&gt;
+
+&lt;td&gt;CHURCH&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_TYPE&lt;/td&gt;
+
+&lt;td&gt;ST&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_DIRECTION&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;MUNICIPALITY_NAME&lt;/td&gt;
+
+&lt;td&gt;TORONTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;PROVINCE_CODE&lt;/td&gt;
+
+&lt;td&gt;Ontario&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;POSTAL_CODE&lt;/td&gt;
+
+&lt;td&gt;M4Y2E6&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LAST_MODIFIED_DATE&lt;/td&gt;
+
+&lt;td&gt;12:00:00 AM&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;HFPU_LOCATION_ID&lt;/td&gt;
+
+&lt;td&gt;15&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LATITUDE&lt;/td&gt;
+
+&lt;td&gt;43.669158&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;LONGITUDE&lt;/td&gt;
+
+&lt;td&gt;-79.382211&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;SHAPE&lt;/td&gt;
+
+&lt;td&gt;Point&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</description>
+	<ExtendedData><SchemaData schemaUrl="#PuroLocationz">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3822107999973,43.6691583998866,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>METRO WEST RC0111</name>
+	<description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+
+&lt;/head&gt;
+
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+
+&lt;td&gt;METRO WEST RC0111&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;HFPU_LOCATION_NAME&lt;/td&gt;
+
+&lt;td&gt;METRO WEST RC0111&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;UNIT_NUMBER&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NUMBER&lt;/td&gt;
+
+&lt;td&gt;800&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_NUMBER_SUFFIX&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NAME&lt;/td&gt;
+
+&lt;td&gt;KIPLING&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_TYPE&lt;/td&gt;
+
+&lt;td&gt;AVE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_DIRECTION&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;MUNICIPALITY_NAME&lt;/td&gt;
+
+&lt;td&gt;ETOBICOKE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;PROVINCE_CODE&lt;/td&gt;
+
+&lt;td&gt;Ontario&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;POSTAL_CODE&lt;/td&gt;
+
+&lt;td&gt;M8Z5G5&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LAST_MODIFIED_DATE&lt;/td&gt;
+
+&lt;td&gt;12:00:00 AM&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;HFPU_LOCATION_ID&lt;/td&gt;
+
+&lt;td&gt;16&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LATITUDE&lt;/td&gt;
+
+&lt;td&gt;43.630548&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;LONGITUDE&lt;/td&gt;
+
+&lt;td&gt;-79.531462&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;SHAPE&lt;/td&gt;
+
+&lt;td&gt;Point&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</description>
+	<ExtendedData><SchemaData schemaUrl="#PuroLocationz">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.5314616003882,43.6305483000964,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DUNDEE PLACE RC0119</name>
+	<description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+
+&lt;/head&gt;
+
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+
+&lt;td&gt;DUNDEE PLACE RC0119&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;HFPU_LOCATION_NAME&lt;/td&gt;
+
+&lt;td&gt;DUNDEE PLACE RC0119&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;UNIT_NUMBER&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NUMBER&lt;/td&gt;
+
+&lt;td&gt;1&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_NUMBER_SUFFIX&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NAME&lt;/td&gt;
+
+&lt;td&gt;ADELAIDE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_TYPE&lt;/td&gt;
+
+&lt;td&gt;ST&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_DIRECTION&lt;/td&gt;
+
+&lt;td&gt;E&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;MUNICIPALITY_NAME&lt;/td&gt;
+
+&lt;td&gt;TORONTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;PROVINCE_CODE&lt;/td&gt;
+
+&lt;td&gt;Ontario&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;POSTAL_CODE&lt;/td&gt;
+
+&lt;td&gt;M5C2V9&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LAST_MODIFIED_DATE&lt;/td&gt;
+
+&lt;td&gt;12:00:00 AM&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;HFPU_LOCATION_ID&lt;/td&gt;
+
+&lt;td&gt;17&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LATITUDE&lt;/td&gt;
+
+&lt;td&gt;43.650408&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;LONGITUDE&lt;/td&gt;
+
+&lt;td&gt;-79.378397&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;SHAPE&lt;/td&gt;
+
+&lt;td&gt;Point&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</description>
+	<ExtendedData><SchemaData schemaUrl="#PuroLocationz">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3783972998009,43.6504079999487,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MORSE RC0121</name>
+	<description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+
+&lt;/head&gt;
+
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+
+&lt;td&gt;MORSE RC0121&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;HFPU_LOCATION_NAME&lt;/td&gt;
+
+&lt;td&gt;MORSE RC0121&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;UNIT_NUMBER&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NUMBER&lt;/td&gt;
+
+&lt;td&gt;11&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_NUMBER_SUFFIX&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NAME&lt;/td&gt;
+
+&lt;td&gt;MORSE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_TYPE&lt;/td&gt;
+
+&lt;td&gt;ST&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_DIRECTION&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;MUNICIPALITY_NAME&lt;/td&gt;
+
+&lt;td&gt;TORONTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;PROVINCE_CODE&lt;/td&gt;
+
+&lt;td&gt;Ontario&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;POSTAL_CODE&lt;/td&gt;
+
+&lt;td&gt;M4M2P7&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LAST_MODIFIED_DATE&lt;/td&gt;
+
+&lt;td&gt;12:00:00 AM&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;HFPU_LOCATION_ID&lt;/td&gt;
+
+&lt;td&gt;18&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LATITUDE&lt;/td&gt;
+
+&lt;td&gt;43.654711&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;LONGITUDE&lt;/td&gt;
+
+&lt;td&gt;-79.338731&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;SHAPE&lt;/td&gt;
+
+&lt;td&gt;Point&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</description>
+	<ExtendedData><SchemaData schemaUrl="#PuroLocationz">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3387310996725,43.6547104999062,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SCARBOROUGH RC6001</name>
+	<description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+
+&lt;/head&gt;
+
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+
+&lt;td&gt;SCARBOROUGH RC6001&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;HFPU_LOCATION_NAME&lt;/td&gt;
+
+&lt;td&gt;SCARBOROUGH RC6001&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;UNIT_NUMBER&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NUMBER&lt;/td&gt;
+
+&lt;td&gt;90&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_NUMBER_SUFFIX&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NAME&lt;/td&gt;
+
+&lt;td&gt;SILVER STAR&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_TYPE&lt;/td&gt;
+
+&lt;td&gt;BLVD&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_DIRECTION&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;MUNICIPALITY_NAME&lt;/td&gt;
+
+&lt;td&gt;SCARBOROUGH&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;PROVINCE_CODE&lt;/td&gt;
+
+&lt;td&gt;Ontario&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;POSTAL_CODE&lt;/td&gt;
+
+&lt;td&gt;M1V4V8&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LAST_MODIFIED_DATE&lt;/td&gt;
+
+&lt;td&gt;12:00:00 AM&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;HFPU_LOCATION_ID&lt;/td&gt;
+
+&lt;td&gt;19&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LATITUDE&lt;/td&gt;
+
+&lt;td&gt;43.806521&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;LONGITUDE&lt;/td&gt;
+
+&lt;td&gt;-79.290819&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;SHAPE&lt;/td&gt;
+
+&lt;td&gt;Point&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</description>
+	<ExtendedData><SchemaData schemaUrl="#PuroLocationz">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.2908194000951,43.8065206001106,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>YORK MILLS RC6006</name>
+	<description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+
+&lt;/head&gt;
+
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+
+&lt;td&gt;YORK MILLS RC6006&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;HFPU_LOCATION_NAME&lt;/td&gt;
+
+&lt;td&gt;YORK MILLS RC6006&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;UNIT_NUMBER&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NUMBER&lt;/td&gt;
+
+&lt;td&gt;808&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_NUMBER_SUFFIX&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NAME&lt;/td&gt;
+
+&lt;td&gt;YORK MILLS&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_TYPE&lt;/td&gt;
+
+&lt;td&gt;RD&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_DIRECTION&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;MUNICIPALITY_NAME&lt;/td&gt;
+
+&lt;td&gt;NORTH YORK&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;PROVINCE_CODE&lt;/td&gt;
+
+&lt;td&gt;Ontario&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;POSTAL_CODE&lt;/td&gt;
+
+&lt;td&gt;M3B1X8&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LAST_MODIFIED_DATE&lt;/td&gt;
+
+&lt;td&gt;12:00:00 AM&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;HFPU_LOCATION_ID&lt;/td&gt;
+
+&lt;td&gt;20&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LATITUDE&lt;/td&gt;
+
+&lt;td&gt;43.753368&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;LONGITUDE&lt;/td&gt;
+
+&lt;td&gt;-79.358068&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;SHAPE&lt;/td&gt;
+
+&lt;td&gt;Point&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</description>
+	<ExtendedData><SchemaData schemaUrl="#PuroLocationz">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3580676002679,43.7533682996997,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ETOBICOKE RC6209</name>
+	<description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+
+&lt;/head&gt;
+
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+
+&lt;td&gt;ETOBICOKE RC6209&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;HFPU_LOCATION_NAME&lt;/td&gt;
+
+&lt;td&gt;ETOBICOKE RC6209&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;UNIT_NUMBER&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NUMBER&lt;/td&gt;
+
+&lt;td&gt;62&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_NUMBER_SUFFIX&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_NAME&lt;/td&gt;
+
+&lt;td&gt;VULCAN&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;STREET_TYPE&lt;/td&gt;
+
+&lt;td&gt;ST&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;STREET_DIRECTION&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;MUNICIPALITY_NAME&lt;/td&gt;
+
+&lt;td&gt;ETOBICOKE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;PROVINCE_CODE&lt;/td&gt;
+
+&lt;td&gt;Ontario&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;POSTAL_CODE&lt;/td&gt;
+
+&lt;td&gt;M9W1L2&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LAST_MODIFIED_DATE&lt;/td&gt;
+
+&lt;td&gt;12:00:00 AM&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;HFPU_LOCATION_ID&lt;/td&gt;
+
+&lt;td&gt;21&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;LATITUDE&lt;/td&gt;
+
+&lt;td&gt;43.704754&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;LONGITUDE&lt;/td&gt;
+
+&lt;td&gt;-79.576304&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;SHAPE&lt;/td&gt;
+
+&lt;td&gt;Point&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</description>
+	<ExtendedData><SchemaData schemaUrl="#PuroLocationz">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.5763039003702,43.7047539997298,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
