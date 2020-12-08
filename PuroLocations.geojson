@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"name": "PuroLocations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OID_": 0, "Name": "SCARBOROUGH GO STATION", "LabelID": 1 }, "geometry": { "type": "Point", "coordinates": [ -79.25168, 43.71858 ] } },
+{ "type": "Feature", "properties": { "OID_": 0, "Name": "GLOBAL PARCEL EXPRESS (ESO)", "LabelID": 2 }, "geometry": { "type": "Point", "coordinates": [ -79.44256, 43.67799 ] } },
+{ "type": "Feature", "properties": { "OID_": 0, "Name": "PRESSE INTERNATIONALE (ESO)", "LabelID": 3 }, "geometry": { "type": "Point", "coordinates": [ -79.29715, 43.67075 ] } },
+{ "type": "Feature", "properties": { "OID_": 0, "Name": "VALUE MOBILE (ESO)", "LabelID": 4 }, "geometry": { "type": "Point", "coordinates": [ -79.45086, 43.69555 ] } },
+{ "type": "Feature", "properties": { "OID_": 0, "Name": "PHOTO FAST LTD. (ESO)", "LabelID": 5 }, "geometry": { "type": "Point", "coordinates": [ -79.29344, 43.74584 ] } },
+{ "type": "Feature", "properties": { "OID_": 0, "Name": "UNIVERSITY HEALTH CENTRE PHARMACY (ESO)", "LabelID": 6 }, "geometry": { "type": "Point", "coordinates": [ -79.49427, 43.77738 ] } },
+{ "type": "Feature", "properties": { "OID_": 0, "Name": "NETPRINT & SHIP INC (ESO)", "LabelID": 7 }, "geometry": { "type": "Point", "coordinates": [ -79.48227, 43.63058 ] } },
+{ "type": "Feature", "properties": { "OID_": 0, "Name": "ISLINES INCORPORATED (ESO)", "LabelID": 8 }, "geometry": { "type": "Point", "coordinates": [ -79.35117, 43.70602 ] } },
+{ "type": "Feature", "properties": { "OID_": 0, "Name": "FIRST CLASS BUSINESS CENTRES (ESO)", "LabelID": 9 }, "geometry": { "type": "Point", "coordinates": [ -79.40339, 43.72942 ] } },
+{ "type": "Feature", "properties": { "OID_": 0, "Name": "TECH WORLD DANFORTH INC (ESO)", "LabelID": 10 }, "geometry": { "type": "Point", "coordinates": [ -79.29899, 43.68887 ] } },
+{ "type": "Feature", "properties": { "OID_": 0, "Name": "ENVOY BUSINESS SERVICES (ESO)", "LabelID": 11 }, "geometry": { "type": "Point", "coordinates": [ -79.15087, 43.79811 ] } },
+{ "type": "Feature", "properties": { "OID_": 0, "Name": "NEW DOINGWELL CONVENIENCE STORE (ESO)", "LabelID": 12 }, "geometry": { "type": "Point", "coordinates": [ -79.36383, 43.77888 ] } },
+{ "type": "Feature", "properties": { "OID_": 0, "Name": "JUST PRINT CANADA (ESO)", "LabelID": 13 }, "geometry": { "type": "Point", "coordinates": [ -79.39189, 43.76604 ] } },
+{ "type": "Feature", "properties": { "OID_": 0, "Name": "PENGUINPICKUP (ESO)", "LabelID": 14 }, "geometry": { "type": "Point", "coordinates": [ -79.39488, 43.7077 ] } },
+{ "type": "Feature", "properties": { "OID_": 0, "Name": "PENGUINPICKUP (ESO)", "LabelID": 15 }, "geometry": { "type": "Point", "coordinates": [ -79.38221, 43.66916 ] } },
+{ "type": "Feature", "properties": { "OID_": 0, "Name": "METRO WEST RC0111", "LabelID": 16 }, "geometry": { "type": "Point", "coordinates": [ -79.53146, 43.63055 ] } },
+{ "type": "Feature", "properties": { "OID_": 0, "Name": "DUNDEE PLACE RC0119", "LabelID": 17 }, "geometry": { "type": "Point", "coordinates": [ -79.3784, 43.65041 ] } },
+{ "type": "Feature", "properties": { "OID_": 0, "Name": "MORSE RC0121", "LabelID": 18 }, "geometry": { "type": "Point", "coordinates": [ -79.33873, 43.65471 ] } },
+{ "type": "Feature", "properties": { "OID_": 0, "Name": "SCARBOROUGH RC6001", "LabelID": 19 }, "geometry": { "type": "Point", "coordinates": [ -79.29082, 43.80652 ] } },
+{ "type": "Feature", "properties": { "OID_": 0, "Name": "YORK MILLS RC6006", "LabelID": 20 }, "geometry": { "type": "Point", "coordinates": [ -79.35807, 43.75337 ] } },
+{ "type": "Feature", "properties": { "OID_": 0, "Name": "ETOBICOKE RC6209", "LabelID": 21 }, "geometry": { "type": "Point", "coordinates": [ -79.5763, 43.70475 ] } }
+]
+}
