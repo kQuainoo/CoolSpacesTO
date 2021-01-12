@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<!-- website with puro planning data and public canada post forward sortation areas-->
+
+<head>
+    <title> Terminal Boundaries Central Region</title>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+    <script src='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css' rel='stylesheet' />
+    <style type="text/css">
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        #map {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+
+</head>
+
+<body>
+    <div id='map'></div>
+    <script>
+        mapboxgl.accessToken = 'pk.eyJ1Ijoia3F1YWlub28iLCJhIjoiY2tmb3ZsMXFsMDFsdzJxb3hsenhiam0wciJ9.Hycza97C9ZS4KEzKdP-ofA';
+        var map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/mapbox/streets-v11',
+            center: [-79.38, 43.678], //long, lat
+            zoom: 11
+        });
+        // load geojson from github
+
+
+        var url = "C:\\Users\\kuuku.quainoo\\Music\\Projects\\WebMappingScripts\\Data\\TorontoFSA.geojson";
+
+        // creating an XMLHttpRequest object works if xml and website are on same domain
+        map.on('load', function () {
+            var request = new XMLHttpRequest();
+    
+                // make a GET request to parse the GeoJSON at the url
+            request.open('GET', url, true);
+            request.onload = function () {
+
+                if (this.status >= 200 && this.status < 400) {
+
+                    // retrieve the JSON from the response
+                    var json = JSON.parse(this.response);
+                    map.getSource( 'some id').setData(json);
+                }
+            };
+            request.send();
+        });
+
+
+        /* map.on('load', function () {
+
+            map.addSource('some id', { type: 'geojson', data: url });
+            map.addLayer({
+                'id': 'some id',
+                'type': 'FeatureCollection',
+                'source': 'some id',
+                'layout': {
+                    'line-join': 'round',
+                    'line-cap': 'round'
+                },
+                'paint': {
+                    'line-color': '#ff69b4',
+                    'line-width': 1
+                }
+            });
+
+        }); */
+
+    </script>
+</body>
+
+</html>
