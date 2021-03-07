@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "RoadRepairSites",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Address": "85 Cambridge St Guelph ON  N1H", "Name": "Person A", "LabelID": 1, "DateReported": "2021/03/04" }, "geometry": { "type": "Point", "coordinates": [ -80.25843, 43.54167 ] } },
+{ "type": "Feature", "properties": { "Address": "225 Edinburgh Rd S Guelph ON  N1G", "Name": "Person B", "LabelID": 2, "DateReported": "2021/03/02" }, "geometry": { "type": "Point", "coordinates": [ -80.24932, 43.53093 ] } },
+{ "type": "Feature", "properties": { "Address": "385 Woolwich St Guelph ON  N1H", "Name": "Person C", "LabelID": 3, "DateReported": "2021/03/02" }, "geometry": { "type": "Point", "coordinates": [ -80.26005, 43.55257 ] } },
+{ "type": "Feature", "properties": { "Address": "356 York Rd Guelph ON  N1E", "Name": "Person D", "LabelID": 4, "DateReported": "2021/03/03" }, "geometry": { "type": "Point", "coordinates": [ -80.22893, 43.54834 ] } },
+{ "type": "Feature", "properties": { "Address": "366 Victoria Rd N Guelph ON  N1E", "Name": "Person E", "LabelID": 5, "DateReported": "2021/03/01" }, "geometry": { "type": "Point", "coordinates": [ -80.25572, 43.57467 ] } },
+{ "type": "Feature", "properties": { "Address": "420 Elmira Rd N Guelph ON  N1K", "Name": "Person F", "LabelID": 6, "DateReported": "2021/03/03" }, "geometry": { "type": "Point", "coordinates": [ -80.30605, 43.53241 ] } },
+{ "type": "Feature", "properties": { "Address": "448 Auden Rd Guelph ON  N1E", "Name": "Person G", "LabelID": 7, "DateReported": "2021/03/02" }, "geometry": { "type": "Point", "coordinates": [-80.2349, 43.56881 ] } },
+{ "type": "Feature", "properties": { "Address": "456 Watson Rd S Guelph ON  N1L", "Name": "Person H", "LabelID": 8, "DateReported": "2021/03/04" }, "geometry": { "type": "Point", "coordinates": [ -80.19335, 43.55625 ] } }
+]
+}
